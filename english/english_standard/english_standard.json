@@ -1,0 +1,214 @@
+[
+  {
+    "standards": [
+      {
+        "index": 1,
+        "name": "i:"
+      },
+      {
+        "index": 2,
+        "name": "ɪ"
+      },
+      {
+        "index": 3,
+        "name": "e"
+      },
+      {
+        "index": 4,
+        "name": "æ"
+      },
+      {
+        "index": 5,
+        "name": "ɜ:"
+      },
+      {
+        "index": 6,
+        "name": "ə"
+      },
+      {
+        "index": 7,
+        "name": "ʌ"
+      },
+      {
+        "index": 8,
+        "name": "u:"
+      },
+      {
+        "index": 9,
+        "name": "ʊ"
+      },
+      {
+        "index": 10,
+        "name": "ɔ:"
+      },
+      {
+        "index": 11,
+        "name": "ɒ"
+      },
+      {
+        "index": 12,
+        "name": "ɑ:"
+      }
+    ],
+    "type": "单元音"
+  },
+  {
+    "standards": [
+      {
+        "index": 13,
+        "name": "eɪ"
+      },
+      {
+        "index": 14,
+        "name": "aɪ"
+      },
+      {
+        "index": 15,
+        "name": "ɔɪ"
+      },
+      {
+        "index": 16,
+        "name": "aʊ"
+      },
+      {
+        "index": 17,
+        "name": "əʊ"
+      },
+      {
+        "index": 18,
+        "name": "ɪə"
+      },
+      {
+        "index": 19,
+        "name": "eə"
+      },
+      {
+        "index": 20,
+        "name": "ʊə"
+      }
+    ],
+    "type": "双元音"
+  },
+  {
+    "standards": [
+      {
+        "index": 21,
+        "name": "p"
+      },
+      {
+        "index": 22,
+        "name": "t"
+      },
+      {
+        "index": 23,
+        "name": "k"
+      },
+      {
+        "index": 24,
+        "name": "f"
+      },
+      {
+        "index": 25,
+        "name": "s"
+      },
+      {
+        "index": 26,
+        "name": "ʃ"
+      },
+      {
+        "index": 27,
+        "name": "θ"
+      },
+      {
+        "index": 28,
+        "name": "h"
+      },
+      {
+        "index": 29,
+        "name": "tʃ"
+      },
+      {
+        "index": 30,
+        "name": "tr"
+      },
+      {
+        "index": 31,
+        "name": "ts"
+      }
+    ],
+    "type": "清辅音"
+  },
+  {
+    "standards": [
+      {
+        "index": 32,
+        "name": "b"
+      },
+      {
+        "index": 33,
+        "name": "d"
+      },
+      {
+        "index": 34,
+        "name": "g"
+      },
+      {
+        "index": 35,
+        "name": "v"
+      },
+      {
+        "index": 36,
+        "name": "z"
+      },
+      {
+        "index": 37,
+        "name": "ʒ"
+      },
+      {
+        "index": 38,
+        "name": "ð"
+      },
+      {
+        "index": 39,
+        "name": "r"
+      },
+      {
+        "index": 40,
+        "name": "dʒ"
+      },
+      {
+        "index": 41,
+        "name": "dr"
+      },
+      {
+        "index": 42,
+        "name": "dz"
+      },
+      {
+        "index": 43,
+        "name": "m"
+      },
+      {
+        "index": 44,
+        "name": "n"
+      },
+      {
+        "index": 45,
+        "name": "ŋ"
+      },
+      {
+        "index": 46,
+        "name": "ǀ"
+      },
+      {
+        "index": 47,
+        "name": "j"
+      },
+      {
+        "index": 48,
+        "name": "w"
+      }
+    ],
+    "type": "浊辅音"
+  }
+]
